@@ -1,0 +1,2 @@
+DjangoEcommerce
+# django-shop-example
